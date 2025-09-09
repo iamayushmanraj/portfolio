@@ -5,7 +5,6 @@ This site highlights my skills, projects, and journey as a **Data Analyst / Scie
 
 🔗 **Live Website:** https://sites.google.com/view/portfolio-ayushman/portfolio 
 
-📌 **Repository:** This repo contains the source code and setup instructions.
 ---
 
 ## 👨‍💻 About Me
