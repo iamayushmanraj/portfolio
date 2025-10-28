@@ -3,7 +3,6 @@
 Welcome to my **GitHub portfolio repository**, where I showcase my work in **Data Analysis, Machine Learning, and Business Intelligence**.  
 This portfolio reflects my journey of leveraging data to drive smarter business decisions and uncover meaningful insights.  
 
-🔗 **Live Portfolio Website:** [View Here](https://sites.google.com/view/portfolio-ayushman/portfolio)
 
 ---
 
@@ -46,6 +45,5 @@ This GitHub repository includes:
 
 Let’s connect and collaborate on data-driven projects!  
 
-- 🌐 **Portfolio:** [Portfolio Website](https://sites.google.com/view/portfolio-ayushman/portfolio)  
 - 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/iamayushmanraj/)
 - 📧 **Email:** *rajayushman5445@gmail.com*  
