@@ -47,5 +47,5 @@ This GitHub repository includes:
 Let’s connect and collaborate on data-driven projects!  
 
 - 🌐 **Portfolio:** [Portfolio Website](https://sites.google.com/view/portfolio-ayushman/portfolio)  
-- 💼 **LinkedIn:** [linkedin.com/in/ayushmanraj](#) <!-- Replace with your actual LinkedIn URL -->  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/iamayushmanraj/](#) 
 - 📧 **Email:** *rajayushman5445@gmail.com*  
